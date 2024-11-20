@@ -1,0 +1,6 @@
+opencv-python
+numpy
+dlib
+face_recognition
+torch
+torchvision
